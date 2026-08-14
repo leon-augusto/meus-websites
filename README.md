@@ -2,11 +2,11 @@
 
 ## Meus Favoritos
 > Os que são Top dos Tops. Apenas.
-- Fresco Culinária Italiana
+- [Fresco Culinária Italiana](https://drive.google.com/file/d/16iAJvmq9raBYTiIUzwl89efGrlIASc9c/view?usp=sharing)
 
 ## De Mim para Ti
 > Páginas com o intuito de homenagear pessoas que fazem um trabalho positivo na Internet.
-- [Read Lore](https://leon-augusto.github.io/Read_Lore/) - Uma singela homenagem à [Lorena Oliveira] por promover poesias.
+- [Lorena Oliveira](https://leon-augusto.github.io/Read_Lore/)
 
 ## Minhas Versões de Portfólio
 > Templates que utilizei/utilizo no meu portfólio, com exceção do último, todos imutáveis.
